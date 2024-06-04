@@ -23,7 +23,7 @@ Open MetaMask and select "**Add Network**" and "**Sepolia**"
 
 ### Getting Sepolia Test ETH
 
-- Sepolia Faucet: Obtain Sepolia test ETH from a faucet, e.g., Sepolia Faucet.
+- Sepolia Faucet: Obtain Sepolia test ETH from a faucet, eg. using Alchemy/Infura.
 - Request ETH: Enter your MetaMask wallet address and request some test ETH.
 
 ## Deploying the Contract
@@ -58,6 +58,15 @@ Open Remix IDE:
   
 - End the Game: The contract owner can end the game by clicking the endGame button.
 - Withdraw Funds: Confirm the transaction in MetaMask to withdraw any remaining funds to the owner's address.
+
+## Tracking Events
+
+Go on the EtherScan to track your contract, transactions and events:
+
+<img width="1420" alt="image" src="https://github.com/Mushow/SolidityGuess/assets/105550256/e9848345-42c1-46c9-ae8f-82e2755e7e0c">
+<img width="1420" alt="image" src="https://github.com/Mushow/SolidityGuess/assets/105550256/d80eef66-c8f3-4497-999c-4a2562ccced7">
+
+
 
 ### Conclusion
 
